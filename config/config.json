@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/cewIncome/CewIncomeWebPart.js",
+      "manifest": "./src/webparts/cewIncome/CewIncomeWebPart.manifest.json",
+      "outputPath": "./dist/cew-income.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "cewIncomeStrings": "webparts/cewIncome/loc/{locale}.js"
+  }
+}

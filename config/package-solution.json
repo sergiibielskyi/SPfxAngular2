@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "cew-client-side-solution",
+    "id": "cab83f0a-77a0-4d5e-9087-b67542781790",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/cew.sppkg"
+  }
+}
